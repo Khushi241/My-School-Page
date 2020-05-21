@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+}
+body{
+
+background-color: rgb(180, 248, 242);
+
+}
+p{
+
+font-size: xx-large;
+
+}
+.one{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+   
+}
+
+h2{
+    text-align: center;
+}
+
+.two{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+.img{
+    justify-content: center;
+    padding-left: 200px;
+    padding-right: 200px;
+}
